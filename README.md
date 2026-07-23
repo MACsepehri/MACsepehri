@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2>I am a Full-Stack developer and love to be an astrologist 🚀</h2>
+<h2>Hi there 👋<br>I am a Full-Stack developer and love to be an astrologist 🚀</h2>
 <p>Knowladge :</p>
 <ul>
     <li>Python (senior)</li>
