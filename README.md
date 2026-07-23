@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2>I am a Full-Stack developer and a Software engineer.</h2>
+<h2>I am a Full-Stack developer and love to be an astrologist 🚀</h2>
 <p>Knowladge :</p>
 <ul>
     <li>Python (senior)</li>
@@ -9,3 +9,7 @@
     <li>Javascript (junior)</li>
     <li>C# (Learning)</li>
 </ul>
+<h2>About me</h2>
+<p>I am a Full-Stack developer and a software engineer. I started programming at 10 years old.</p>
+<p>I learned python to <n>senior</n> level and started learning how to create a website.</p>
+<p>Now I am 12 years old. I started learning C# and I wanna continue this way.</p>
