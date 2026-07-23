@@ -2,4 +2,10 @@
 
 <h2>I am a Full-Stack developer and a Software engineer.</h2>
 <p>Knowladge :</p>
-<div style="width: 10px; height: 10px; border-radius: 360px; background: black;">Python</div>
+<ul>
+    <li>Python (senior)</li>
+    <li>Html (senior)</li>
+    <li>Css (mid-level)</li>
+    <li>Javascript (junior)</li>
+    <li>C# (Learning)</li>
+</ul>
