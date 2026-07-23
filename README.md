@@ -10,6 +10,6 @@
     <li>C# (Learning)</li>
 </ul>
 <h2>About me</h2>
-<pre>I am a Full-Stack developer and a software engineer. I started programming at 10 years old.
+<pre>I am a Full-Stack developer. I started programming at 10 years old.
 I learned python to <n>senior</n> level and started learning how to create a website.
 Now I am 12 years old. I started learning C# and I wanna continue this way.</pre>
