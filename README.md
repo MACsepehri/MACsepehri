@@ -1,9 +1,9 @@
 <h2>Hi there 👋<br>I am a Full-Stack developer and love to be an astrologist 🚀</h2>
 <p>Knowladge :</p>
 <ul>
-    <li>Python (senior)</li>
-    <li>Html (senior)</li>
-    <li>Css (mid-level)</li>
+    <li>Python (upper-intermediate)</li>
+    <li>Html (junior)</li>
+    <li>Css (junior)</li>
     <li>Javascript (junior)</li>
     <li>C# (Learning)</li>
 </ul>
