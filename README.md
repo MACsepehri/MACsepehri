@@ -2,21 +2,17 @@
 <p>Knowladge :</p>
 <ul>
     <li>Python (upper-intermediate)</li>
-    <li>Html (junior)</li>
+    <li>Html</li>
     <li>Css (junior)</li>
     <li>Javascript (junior)</li>
-    <li>C# (Learning)</li>
     <li>PHP (junior)</li>
     <li>C++ (junior)</li>
-    <li>Godot Engine (Learning)</li>
-    <li>Creating Selfbot.</li>
 </ul>
 <br>
 <p>Frameworks and important modules: </p>
 <ul>
     <li>Flask + Flask-SQLalchamy</li>
-    <li>Selenium</li>
-    <li>Deep learning + Machine learning (Learning)</li>
+    <li>...</li>
 </ul>
 <h2>About me</h2>
 <pre>I am a Full-Stack developer. I started programming at 10 years old.
