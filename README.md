@@ -6,6 +6,7 @@
     <li>Css (junior)</li>
     <li>Javascript (junior)</li>
     <li>PHP (junior)</li>
+    <li>React (junior)</li>
     <li>C++ (junior)</li>
 </ul>
 <br>
