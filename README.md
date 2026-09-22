@@ -8,6 +8,7 @@
     <li>PHP (junior)</li>
     <li>React.JS (junior)</li>
     <li>Next.JS (junior)</li>
+    <li>Node.JS (junior)</li>
     <li>C++ (junior)</li>
 </ul>
 <br>
