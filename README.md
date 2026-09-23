@@ -2,14 +2,9 @@
 <p>Knowladge :</p>
 <ul>
     <li>Python (upper-intermediate)</li>
-    <li>Html</li>
-    <li>Css (junior)</li>
-    <li>Javascript (junior)</li>
     <li>PHP (junior)</li>
     <li>React.JS (junior)</li>
     <li>Next.JS (junior)</li>
-    <li>Node.JS (junior)</li>
-    <li>C++ (junior)</li>
 </ul>
 <br>
 <p>Frameworks and important modules: </p>
