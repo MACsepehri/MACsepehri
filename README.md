@@ -8,5 +8,5 @@
 </ul>
 <br>
 <div>
-    <h3>Working in <span onclick="window.location.href='https://github.com/LithiumTeam';"><span style="color: #8B5CF6">Li-Team</span> organization</span></h3>
+    <h3>Working in <a href="https://github.com/LithiumTeam"><span style="color: #8B5CF6">Li-Team</span> organization</a></h3>
 </div>
